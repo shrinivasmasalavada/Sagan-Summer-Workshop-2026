@@ -1,3 +1,17 @@
+About the NASA Exoplanet Science Institute (NExScI)
+NExScI is a science operations and analysis service organization for NASA Exoplanet Exploration Program (ExEP) projects, and the scientists and engineers that use them. NExScI facilitates the timely and successful execution of exoplanet science by providing software infrastructure, science operations, and consulting to ExEP projects and their user communities.
+
+Specifically, NExScI administers and schedules NASA's portion of time on the Keck telescopes, develops and operates the NASA Exoplanet Archive, helps to administer the NASA Hubble Fellowship Program, runs the Sagan Summer Workshop, supports the Large Binocular Telescope Interferometer (LBTI), and supports additional projects in the Exoplanet Exploration Program.
+
+NExScI has developed and maintains several public astronomy data archives and software tools. New datasets and data analysis tools are added to the archives as they become available.
+
+NExScI provides operational software infrastructure and support, archiving of and access to observational data, and consultation for all stages of an experimental project, from concept development and proposal writing to implementation and analysis.
+
+NExScI is part of IPAC, located on the campus of the California Institute of Technology.
+ 
+ 
+ 
+ 
 # Sagan-Summer-Workshop-2026
 Exoplanets with Roman Surveys: Microlensing and Transits
 
