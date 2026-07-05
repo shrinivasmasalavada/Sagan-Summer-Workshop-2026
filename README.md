@@ -10,6 +10,20 @@ NExScI provides operational software infrastructure and support, archiving of an
 NExScI is part of IPAC, located on the campus of the California Institute of Technology.
  
  
+ workshop  skills develop
+
+Exoplanet science knowledge
+Astronomy research understanding
+Microlensing method
+Transit method
+Roman Space Telescope survey knowledge
+Scientific data analysis
+Research presentation skill
+Poster presentation skill
+Scientific communication
+Networking with researchers
+Team project / group work skill
+Critical thinking in space science
  
  
 # Sagan-Summer-Workshop-2026
